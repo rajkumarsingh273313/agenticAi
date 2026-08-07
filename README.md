@@ -1,0 +1,2 @@
+# agenticAi
+Agentic ai workshop
